@@ -17,3 +17,15 @@ Para instalar este proyecto, sigue estos pasos:
 
 1. npm i react-router-dom
 
+## Imagenes del app
+
+1. Pagina Principal
+  ![Principal](src/assets/img/1.png)
+
+
+2. Pagina Personajes
+  ![Principal](src/assets/img/2.png)
+
+
+3. Pagina Vista detalle
+  ![Principal](src/assets/img/3.png)
