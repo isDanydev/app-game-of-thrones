@@ -1,8 +1,19 @@
-# React + Vite
+# App Game of thrones
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+App que muestra los personajes de game of thrones y tambien los dichos de cada uno.
 
-Currently, two official plugins are available:
+## Instalación
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Para instalar este proyecto, sigue estos pasos:
+
+1. Clona el repositorio en tu máquina local:
+
+   ```bash
+   https://github.com/isDanydev/app-game-of-thrones.git
+
+2. npm run install
+
+## Librerias usadas
+
+1. npm i react-router-dom
+
